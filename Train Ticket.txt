@@ -1,0 +1,28 @@
+
+		--- Bangladesh Railway Ticket ---
+
+
+        *************************************
+
+ Name: Hasan
+
+ From: Dhaka
+
+ To: Bogra
+
+ Train Name: Titas Express
+
+ Time: 12:00
+
+ Class: shovon
+
+ Seat No: 23
+
+ Date: 18.09.2018
+
+ Cost: 120
+
+
+
+				-------- Thank You -------- 
+				--- Have a Safe Journey --- 
